@@ -1,4 +1,4 @@
-package com.itheima.com.itheima.test;
+package com.skk.test;
 
 public class ThisIsATest {
     public static void main(String[] args) {
